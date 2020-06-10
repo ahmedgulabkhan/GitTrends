@@ -1,16 +1,26 @@
-# git_trends
+# GitTrends
+## About
+GitTrends is a project made using Flutter which displays all the trending repositories and developers for the current day, week or month. There is no official API provided by GitHub to show the trending repositories and developers for any certain time period, and GitTrends tackles exactly this problem.
 
-A new Flutter project.
+## Snapshots of the application
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Configuration Steps
+1. Cloning the repository:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+```
+$ git clone https://github.com/ahmedgulabkhan/GitTrends.git
+```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Open the project and install dependencies (using terminal):
+
+```
+$ cd GitTrends
+$ flutter pub get
+```
+This installs all the required dependencies.
+
+3. Now run the app on your connected device (using terminal):
+
+`$ flutter run`
