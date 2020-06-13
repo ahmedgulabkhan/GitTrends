@@ -3,7 +3,7 @@
 ![Screenshots](/snapshots/snapshot1.jpeg)
 
 ## About
-GitTrends is a project made using Flutter which displays all the trending repositories and developers for the current day, week or month. There is no official API provided by GitHub to show the trending repositories and developers for any certain time period, and GitTrends tackles exactly this problem.
+GitTrends is an app made using Flutter which displays all the trending repositories, developers for the current day, week or month. The GitHub mobile app does not support the feature to show the trending repositories, developers and also there is no official GitHub API which does the same, and GitTrends tackles exactly this problem.
 
 ## Configuration Steps
 1. Cloning the repository:
